@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Howen Antonio</h1>
-<h3 align="center">Web Developer & Undergraduate Computer Science Student at BINUS University with a strong foundation in full-stack web development and project management. Experienced in building scalable applications using Spring Boot and Angular, with a proven track record of leadership in large-scale organizational events.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=howenantonio&label=Profile%20views&color=0e75b6&style=flat" alt="howenantonio" /> </p>
 
